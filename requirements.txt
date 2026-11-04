@@ -1,0 +1,12 @@
+
+agent-framework-gemini
+python-dotenv
+streamlit
+pydantic
+pytest
+pytest-asyncio
+ruff
+bandit
+truststore
+certifi
+httpx
