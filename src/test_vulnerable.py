@@ -1,3 +1,4 @@
+# Intentional security test: SQL injection vulnerability.
 import sqlite3
 
 
