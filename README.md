@@ -10,7 +10,7 @@ An AI-powered automated code review system built using Python, Microsoft Agent F
 
 
 
-\- \*\*Diff Reviewer:\*\* Analyzes code changes and identifies potential issues.
+\- \*Diff Reviewer:* Analyzes code changes and identifies potential issues.
 
 \- \*\*Style Reviewer:\*\* Checks code quality and coding conventions.
 
